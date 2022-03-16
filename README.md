@@ -18,7 +18,7 @@ Add it in your root build.gradle at the end of repositories:
 ```
 dependencies {
 		implementation 'com.github.ixiDev:Meteorit:v0.1'
-		implementation 'com.google.android.ads.consent:consent-library:1.0.3'
+		implementation 'com.google.android.ads.consent:consent-library:1.0.8'
 	}
 ```
 
